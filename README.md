@@ -8,14 +8,15 @@ Admin has access to all modules while clients are only allowed with transactions
 
 ### Screencaps:
 
-1. 
+1. ![Screencap-01](/screencaps/screencap-01.jpg)
 
-2.
+2. ![Screencap-01](/screencaps/screencap-02.jpg)
 
-3.
+3. ![Screencap-01](/screencaps/screencap-03.jpg)
 
-4.
- 
+4. ![Screencap-01](/screencaps/screencap-04.jpg)
+
+
 ### System was created to practice implementing ASP.NET MVC with SQL relational database management.
  
 - SQL Server used as database management system.
